@@ -12,11 +12,11 @@ Interactive Python tool to split a sprite sheet into individual PNG frames.
 ## Requirements
 
 - Python 3.9+ (recommended)
-- Pillow (listed in `/home/runner/work/spritesheet_extractor/spritesheet_extractor/requirement.txt`)
+- Pillow (listed in `requirement.txt`)
 
 ## Installation
 
-From `/home/runner/work/spritesheet_extractor/spritesheet_extractor`:
+From the project root directory:
 
 ```bash
 python -m venv .venv
